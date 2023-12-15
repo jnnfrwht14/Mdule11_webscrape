@@ -1,0 +1,3 @@
+Module_11_resources	
+
+--JSON: https://www.geeksforgeeks.org/extract-json-from-html-using-beautifulsoup-in-python/
