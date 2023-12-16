@@ -7,3 +7,7 @@ Module_11_resources
 -- https://www.datasciencecentral.com/how-to-use-python-to-loop-through-html-tables-and-scrape-tabular-data/
 
 --colors in columns: https://stackoverflow.com/questions/72433468/how-to-set-different-colors-for-specific-columns-in-matplotlib-bar-chart; https://matplotlib.org/stable/gallery/color/named_colors.html
+
+--Mars data: https://www.planetary.org/articles/mars-calendar#:~:text=Sols%2C%20or%20Martian%20solar%20days,days)%20in%20a%20Martian%20year.
+
+--Spoke with tutor Steven.
