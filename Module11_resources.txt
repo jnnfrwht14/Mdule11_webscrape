@@ -1,3 +1,7 @@
 Module_11_resources	
 
 --JSON: https://www.geeksforgeeks.org/extract-json-from-html-using-beautifulsoup-in-python/
+
+--"HTML, CSS, & JavaScript All-in-One For Dummies," Author: Paul McFedries
+
+-- https://www.datasciencecentral.com/how-to-use-python-to-loop-through-html-tables-and-scrape-tabular-data/
