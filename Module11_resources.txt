@@ -5,3 +5,5 @@ Module_11_resources
 --"HTML, CSS, & JavaScript All-in-One For Dummies," Author: Paul McFedries
 
 -- https://www.datasciencecentral.com/how-to-use-python-to-loop-through-html-tables-and-scrape-tabular-data/
+
+--colors in columns: https://stackoverflow.com/questions/72433468/how-to-set-different-colors-for-specific-columns-in-matplotlib-bar-chart; https://matplotlib.org/stable/gallery/color/named_colors.html
